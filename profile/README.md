@@ -13,18 +13,6 @@ YourEyes is a mobile application designed to assist blind and visually impaired 
 - **Flutter App**: Contains the code for the mobile application.
 - **Server Code**: Located in the `servercode` directory, written in Python.
 
-## Task List
-
-- [x] Set up project structure
-- [x] Implement real-time video streaming in Flutter app
-- [x] Develop server code to process video streams
-- [x] Integrate object detection model on the server
-- [ ] Implement Word2Vec to approximate user search terms to known labels
-- [ ] Optimize server performance for real-time processing
-- [ ] Improve UI/UX for better accessibility
-- [ ] Add support for additional languages
-- [ ] Plan and implement edge device compatibility to enable standalone functionality without relying on a central server
-
 ## Contributing
 
 We welcome contributions! Please follow these steps to contribute:
