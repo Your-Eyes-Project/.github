@@ -11,7 +11,7 @@ YourEyes is a mobile application designed to assist blind and visually impaired 
 ## Project Structure
 
 - **Flutter App**: Contains the code for the mobile application.
-- **Server Code**: Located in the `servercode` directory, written in Python.
+- **Server Code**: Located in the `YourEyes-API` repository, written in Python.
 
 ## Contributing
 
